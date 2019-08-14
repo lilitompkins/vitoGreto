@@ -1,0 +1,1 @@
+For importing Phlox demos, all you need to do is installing the theme and navigating to "Phlox > Demo Importer". You can simply choose your desired demo from the list and import it on the fly!
